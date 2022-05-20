@@ -6,11 +6,12 @@
 
 <!-- Main Server -->
 
-- [ ] Set up Go project
-- [ ] Install Gorilla/mux: `go get -u github.com/gorilla/mux`
-- [ ] Design the json
-  - [ ] Product will have: [{id, name, imageUrl, price, category}]
-- [ ] Create products type struct
+- [x] Set up Go project
+- [x] Install Gorilla/mux: `go get -u github.com/gorilla/mux`
+- [x] Design the json
+  - [x] Product will have: [{id, name, imageUrl, price, category}]
+- [x] Create products type struct
+- [ ] Create a separate repo folder
 - [ ] Connect with Firebase database
 
 <!-- Front-end -->
